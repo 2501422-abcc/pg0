@@ -75,3 +75,30 @@ background-color: aqua;
 {
     width: 300px;
 }
+
+
+.sasaguri {
+  display: flex;
+  justify-content: center; /* 中央揃え（任意） */
+  gap: 20px;               /* 画像の間隔 */
+}
+
+.sasaguri img {
+  width: 500px;            /* サイズ調整（任意） */
+  height: auto;
+}
+
+.sasaguritxt{
+  text-align: center;
+}
+
+.food
+{
+    display: flex; 
+    align-items: center;
+}
+
+.foodcategory
+{
+    width: 300px;
+}
