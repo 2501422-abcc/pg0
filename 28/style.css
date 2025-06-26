@@ -92,13 +92,13 @@ background-color: aqua;
   text-align: center;
 }
 
-.food
+.youtube
 {
     display: flex; 
     align-items: center;
 }
 
-.foodcategory
+.ytcategory
 {
     width: 300px;
 }
